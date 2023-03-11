@@ -11,4 +11,4 @@ a = int(number[0])
 b = int(number[1])
 c = int(number[2])
 result = a+b+c 
-print(result)
+print(f'Сумма цифр числа равна: {result}')
